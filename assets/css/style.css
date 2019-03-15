@@ -1,0 +1,57 @@
+header{
+    color: white;
+    background-color: #333;
+}
+
+body {
+    background-image: url("../images/dark-honeycomb.png");
+    height: 960px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+li, p, ul, form, h2, h4 {
+    color: white;
+}
+
+h1 {
+    float: left;
+    color: white;
+    background-color: red;
+    padding: 10px 10px 10px 10px;
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: rgb(255, 0, 0);
+  }
+
+  footer {
+    text-align: center;
+    background-color: #333;
+  }
+
+  h3 {
+    color: white;
+    text-align: center;
+  }
+
+  .navbar{
+    
+  }
