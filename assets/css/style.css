@@ -34,7 +34,7 @@ nav {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 16px 14px 16px;
     text-decoration: none;
   }
   
@@ -43,6 +43,10 @@ nav {
   }
 
   footer {
+    position: absolute;
+    bottom: 0;
+    width: 80%;
+    height: 40px;
     text-align: center;
     background-color: #333;
   }
