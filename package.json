@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-portfolio",
+  "version": "1.0.0",
+  "description": "Bootstrap Portfolio ",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fen1xdown/Bootstrap-portfolio.git"
+  },
+  "author": "Cameron Calder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fen1xdown/Bootstrap-portfolio/issues"
+  },
+  "homepage": "https://github.com/fen1xdown/Bootstrap-portfolio#readme"
+}
