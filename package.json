@@ -4,6 +4,7 @@
   "description": "Bootstrap Portfolio ",
   "main": "index.html",
   "scripts": {
+    "start": "index.html",
     "test": "npm start"
   },
   "repository": {
@@ -17,3 +18,4 @@
   },
   "homepage": "https://github.com/fen1xdown/Bootstrap-portfolio#readme"
 }
+  
